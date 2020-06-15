@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexey Zavoykin</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Alexey Zavoykin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CV</title>
+      <link>http://example.org/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cv/</guid>
+      <description>Hi there! I’m Alexey.
+ DOB: 06.09.1994 Location: Yaroslavl, Russia. Citizenship: Russian  Skills  Development  Backend  Java (3+ years of production experience) Java EE, Spring (SpringBoot, Spring Data) (2+) C# (1 year) Python, Scala, Kotlin, R. Node JS   Frontend  JS (2+) TS CSS (Less), Bootstrap, HTML Webpack   Mobile  Android   Big Data, Machine Learning experience (pet projects)  Hadoop Tensorflow     Testing  Autotesting  Selenium, Selenide Junit      Work experience  Krista, LLC  Backend Developer Member of the core team  Development of document processing service Profiling and testing of application Mentoring and support for trainees, task tracking, documentation and roadmap planning.</description>
+    </item>
+    
+  </channel>
+</rss>
